@@ -1,0 +1,14 @@
+-----------------FOR DOUBLE DATA IN TAX SHEET-------------------
+
+module\Payroll\src\Controller\PayrollReportController.php
+	->taxYearlyNewAction
+	->taxSheetNewAction
+	->pulltaxSheetNewAction
+	->pulltaxYearlyNewAction
+	
+module\Payroll\view\payroll\payroll-report\tax-sheet-new.phtml
+
+module\Payroll\view\payroll\payroll-report\tax-yearly-new.phtml
+
+module\Payroll\src\Repository\PayrollReportRepo.php
+	->getTaxYearlyNew
